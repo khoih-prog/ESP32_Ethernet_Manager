@@ -1769,7 +1769,7 @@ ESP32_EMParameter custom_mqtt_server("server", "mqtt server", "iot.eclipse", 40,
 ---
 
 
-#### How to connect W5500 or ENC28J60 to ESP8266
+#### How to connect W5500 or ENC28J60 to ESP32
 
 You can change the `INT` pin to another one. Default is `GPIO4`
 
